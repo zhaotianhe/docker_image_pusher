@@ -1,1 +1,1 @@
-bobsense/nginx-arm64:latest
+ dil001/nginx-arm64:1.12.1
