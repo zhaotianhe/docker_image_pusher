@@ -1,2 +1,1 @@
-tkestack/busybox-arm64:1.31.1
-dil001/nginx-arm64:1.12-alpine
+rancher/coredns-coredns:1.8.0-arm64
