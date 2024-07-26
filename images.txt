@@ -1,2 +1,1 @@
-rancher/mirrored-coredns-coredns:1.9.1-arm64
-
+bobsense/nginx-arm64:latest
