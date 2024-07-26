@@ -1,2 +1,2 @@
 tkestack/busybox-arm64:1.31.1
-bobsense/nginx-arm64
+bobsense/nginx-arm64:latest
