@@ -1,2 +1,1 @@
-rancher/pause:3.2-arm64
-edgerepos/pause-arm64:3.0
+coredns/coredns:coredns-arm64
