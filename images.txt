@@ -1,2 +1,3 @@
 rancher/coredns-coredns:1.8.0-arm64
-mirrored-coredns-coredns:1.8.4-arm64
+rancher/mirrored-coredns-coredns:1.7.0-arm64
+
