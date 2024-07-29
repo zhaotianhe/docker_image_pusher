@@ -1,2 +1,1 @@
-
-bitnami/clickhouse:sha256:28d032e61796427204a0439e4b5991fc0544183c15c45b78bfb289dc71bd60fd
+bitnami/clickhouse:23.2.3-debian-11-r0-arm64
