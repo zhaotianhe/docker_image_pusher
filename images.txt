@@ -1,2 +1,2 @@
-altinity/clickhouse-backup:2.4.8
---platform=linux/arm64
+--platform=linux/arm64 altinity/clickhouse-backup:2.4.8
+
