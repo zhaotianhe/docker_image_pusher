@@ -1,3 +1,2 @@
-eipwork/nfs-subdir-external-provisioner:v4.0.2-arm64
-tkestack/nfs-subdir-external-provisioner-arm64:v4.0.2
 
+bitnami/clickhouse:sha256:28d032e61796427204a0439e4b5991fc0544183c15c45b78bfb289dc71bd60fd
