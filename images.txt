@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2023-04-13T03-08-07Z@sha256:ab5296018bfca75d45f451e050f6c79c6e8b9927bbc444274a74123ea7921021
+altinity/clickhouse-backup:2.4.8@sha256:be917c9dbb4c945ec9b504eeef838d78c36f9607cabbf47153f99fa7c80c2bc5
