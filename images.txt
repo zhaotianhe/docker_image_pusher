@@ -1,2 +1,3 @@
 eipwork/nfs-subdir-external-provisioner:v4.0.2-arm64
+tkestack/nfs-subdir-external-provisioner-arm64:v4.0.2
 
