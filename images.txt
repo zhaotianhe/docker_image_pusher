@@ -1,1 +1,1 @@
---platform=linux/arm64 minio/mc:RELEASE.2023-04-12T02-21-51Z
+--platform=linux/arm64/v8 debian:12
