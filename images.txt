@@ -1,1 +1,1 @@
---platform=linux-arm64-v8 xfishup/nacos-server:2.2.3-postgresql
+--platform=linux/arm64/v8 xfishup/nacos-server:2.2.3-postgresql
