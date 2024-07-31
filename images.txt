@@ -1,1 +1,1 @@
---platform=linux-arm64-v8 flink:1.14.4-scala_2.11
+--platform=linux-arm64-v8 xfishup/nacos-server:2.2.3-postgresql
