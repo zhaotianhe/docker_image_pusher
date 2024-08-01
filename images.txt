@@ -1,1 +1,1 @@
---platform=linux/arm64 openjdk:17
+--platform=linux/arm64 bitnami/nginx:1.25.2
