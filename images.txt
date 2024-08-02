@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 nginx:1.25.2
+--platform=linux/arm64 bitnami/python:3.8
