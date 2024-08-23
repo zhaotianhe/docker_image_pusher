@@ -1,2 +1,5 @@
 flashcatcloud/categraf:latest
 flashcatcloud/nightingale:7.0.0
+docker.io/library/mysql:5.7
+docker.io/prom/prometheus:latest
+docker.io/library/redis:6.2
