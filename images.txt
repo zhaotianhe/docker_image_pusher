@@ -1,1 +1,2 @@
---platform=linux/arm64 bitnami/python:3.8
+flashcatcloud/categraf:latest
+flashcatcloud/nightingale:7.0.0
