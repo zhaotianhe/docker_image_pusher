@@ -1,1 +1,1 @@
-bitnami-shell:11-debian-11-r102
+bitnami/bitnami-shell:11-debian-11-r102
