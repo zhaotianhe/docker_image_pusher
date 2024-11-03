@@ -1,1 +1,1 @@
-mysql:8.0.12
+bitnami-shell:11-debian-11-r102
