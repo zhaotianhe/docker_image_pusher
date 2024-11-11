@@ -1,3 +1,1 @@
-bitnami/kafka:3.8.1-debian-12-r0
-bitnami/zookeeper:3.9.3-debian-12-r0
-apache/flink:1.19.0-scala_2.12-java8
+bitnami/zookeeper:3.9.2-debian-12-r16
