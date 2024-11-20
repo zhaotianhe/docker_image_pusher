@@ -1,1 +1,1 @@
-bitnami/zookeeper:3.9.2-debian-12-r16
+apache/flink:1.14.4-scala_2.11
