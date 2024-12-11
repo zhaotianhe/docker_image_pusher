@@ -1,1 +1,1 @@
-apache/flink:1.14.4-scala_2.11
+amd64/amazoncorretto:8u422-alpine3.17-jre
