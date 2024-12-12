@@ -1,1 +1,2 @@
-amd64/amazoncorretto:8u422-alpine3.17-jre
+--platfrom=linux/arm64/v8 eipwork/kuboard:v3
+eipwork/etcd-host:3.4.16-2-arm64
