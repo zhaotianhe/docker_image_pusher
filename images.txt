@@ -1,2 +1,2 @@
---platform=linux/arm64/v8 eipwork/kuboard:v3
-eipwork/etcd-host:3.4.16-2-arm64
+# --platform=linux/arm64/v8 eipwork/kuboard:v3
+provectuslabs/kafka-ui:v0.7.2
