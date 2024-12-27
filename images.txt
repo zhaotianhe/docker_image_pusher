@@ -1,2 +1,1 @@
-amd64/buildpack-deps:buster-curl
-adoptopenjdk/openjdk8:jre8u372-b07
+nacos/nacos-server:v2.4.3
