@@ -1,5 +1,2 @@
-# --platform=linux/arm64/v8 eipwork/kuboard:v3
-provectuslabs/kafka-ui:v0.7.2
-wdkang/kafka-console-ui:latest
-velero/velero-plugin-for-aws
-velero/velero:v1.15.0
+amd64/buildpack-deps:buster-curl
+adoptopenjdk/openjdk8:jre8u372-b07
