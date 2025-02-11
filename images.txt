@@ -1,1 +1,1 @@
-inbound-agent:alpine-jdk8
+nacos-server:v2.5.0
