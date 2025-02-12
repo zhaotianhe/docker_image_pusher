@@ -1,1 +1,1 @@
-rancher/rancher-agent:y2.8.2
+rancher/rancher-agent:v2.8.2
