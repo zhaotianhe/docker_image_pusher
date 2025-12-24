@@ -1,1 +1,1 @@
-rancher/rancher-agent:v2.8.2
+docker.io/registry:latest
