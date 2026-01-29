@@ -1,3 +1,4 @@
 --platform=linux/arm64 apache/kafka-native:4.0.0
 --platform=linux/arm64 altinity/clickhouse-operator:0.25.6
 --platform=linux/arm64 altinity/metrics-exporter:0.25.6
+--platform=linux/arm64 clickhouse/clickhouse-server:25.3.5.42
